@@ -1,4 +1,4 @@
-# 3kh0 Assets ("relived, assets.")
+# Zatoga Assets
 
 **All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, ["3kh0, relived."](https://github.com/WhoIsEv/whoisev.github.io)
 Please check out 3kh0's profile! He has amazing stuff there and is one of my favorites for making this BEAUTIFUL website. ♥**
